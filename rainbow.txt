@@ -1,3 +1,5 @@
+The rainow and unicorn
+
 purple
 pink
 Orange
@@ -5,4 +7,5 @@ blue
 green
 yallow
 RED
-These are the colors of the rainbow
+These are the colors of the rainbow.
+and the unicorn.
